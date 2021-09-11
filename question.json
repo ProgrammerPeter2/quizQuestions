@@ -1,14 +1,16 @@
-[
-	{
-		"type": "option",
-		"question": "Mennyi 2+2?",
-		"answer": "4",
-		"options": [0, 4, 6, 8]
-	},
-	{
-		"type": "yesno",
-		"question": "A (-3)^4 pozitív szám?",
-		"answer": "yes",
-		"options": []
-	}
-]
+{
+	"rawQuestionData": [
+		{
+			"type": "option",
+			"question": "Mennyi 2+2?",
+			"answer": "4",
+			"options": [0, 4, 6, 8]
+		},
+		{
+			"type": "yesno",
+			"question": "A (-3)^4 pozitív szám?",
+			"answer": "yes",
+			"options": []
+		}
+	]
+}
