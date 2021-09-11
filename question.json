@@ -2,7 +2,7 @@
 	{
 		"type": "option",
 		"question": "Mennyi 2+2?",
-		"answer": "4"
+		"answer": "4",
 		"options": [0, 4, 6, 8]
 	},
 	{
